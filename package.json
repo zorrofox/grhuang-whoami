@@ -1,0 +1,27 @@
+{
+	"name": "grhuang-whoami-microservice",
+	"version": "0.0.1",
+	"description": "A microservice for Who Am I",
+	"dependencies":{
+		"restify":"~4.1.1"
+	},
+	"engines" :{
+		"node": "4.2.1"
+	},
+	"main": "index.js",
+	"scripts":{
+		"start": "node index.js"
+	},
+	"repository":{
+		"type":"git",
+		"url": "https://github.com/zorrofox/grhuang-whoami.git"
+	},
+	"keywords":[
+		"node",
+		"microservice",
+		"whoami",
+		"freecodecamp",
+		"restify"
+	],
+	"license": "MIT"
+}
